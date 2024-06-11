@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozei&label=Profile%20views&color=0e75b6&style=flat" alt="hozei" /> </p>
 
-- 🌱 I’m currently learning **The complete full-stack web development bootcamp on Udemy**
+- 🌱 I’m currently learning **PHP and Laravel framework**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JAVASCRIPT, Node.js, Express, Git, GitHub & version control, Postgres, EJS, REACT.js**
 
