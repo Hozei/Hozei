@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hosea Chris Noabeb</h1>
 <h3 align="center">A passionate full-stack web developer from Namibia</h3>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozei&label=Profile%20views&color=0e75b6&style=flat" alt="hozei" /> </p>
 
@@ -8,6 +9,7 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, JAVASCRIPT, Node.js, Express, Git, GitHub & version control, Postgres, EJS, REACT.js**
 
 - 📫 How to reach me **hosea.chris9@gmail.com**
+- 📫 How to contact me: **+264813774563**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
