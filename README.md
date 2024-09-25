@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozei&label=Profile%20views&color=0e75b6&style=flat" alt="hozei" /> </p>
 
-- 🌱 I’m currently learning **PHP and Laravel framework**
+- 🌱 I’m currently learning **C# and Ai**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JAVASCRIPT, Node.js, Express, Git, GitHub & version control, Postgres, EJS, REACT.js**
+- 💬 Ask me about **HTML, CSS, PHP, JAVASCRIPT, Laravel Framework, Node.js, Express, Git, GitHub & version control, Postgres, EJS, REACT.js**
 
 - 📫 How to reach me **hosea.chris9@gmail.com**
 - 📫 How to contact me: **+264813774563**
